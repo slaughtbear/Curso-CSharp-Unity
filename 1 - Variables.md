@@ -24,7 +24,8 @@ namespace CSharpCourse
     {
         static void Main(string[] args)
         {
-            int y = 999; // Declaración e inicialización
+	        int x; // Declaración
+            int x = 888; // Inicialización
         }
     }
 }
